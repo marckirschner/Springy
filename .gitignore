@@ -1,0 +1,5 @@
+build/
+nbproject/
+build.xml
+dist/
+spring_energy.txt
